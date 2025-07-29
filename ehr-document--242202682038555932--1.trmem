@@ -42,3 +42,8 @@
 {"source":"I8590   Nyelõcsõ   varicositas   vérzés   nélkül","target":"I8590 Esophageal varices without bleeding"}
 {"source":"Beavatkozások","target":"Interventions."}
 {"source":"Dátum   Idõ   Kód   Megnevezés   Operatõr","target":"Date Time Id Name Operator"}
+{"source":"2022.04.09   14:23   69972   Vörösvérsejt   koncentrátum, zárt ren Hamar Mátyás Dr.","target":"09. Apr, 2022 14:23 69972 Red Blood Cell Concentrate, closed system, Dr. Mátyás Hamar."}
+{"source":"2022.04.09   14:23   98002   Kiegészítõ   pont   besugárzott vér adá Hamar Mátyás Dr.","target":"09. April, 2022 14:23 98002: Supplementary point for administered a unit of irradiated blood by Dr. Mátyás Hamar."}
+{"source":"2022.04.09   14:23   98001   Kiegészítõ   pont   választott vér adás Hamar Mátyás Dr.","target":"09. April, 2022 14:23 98001 Supplementary point for administering chosen blood by Dr Mátyás Hamar"}
+{"source":"2022.04.09   14:23   88135   Transzfúzió   során végzett tevékenys Hamar Mátyás Dr.","target":"09. April, 2022 14:23 88135 Transfusion related activity Dr. Mátyás Hamar"}
+{"source":"Labor   eredmények","target":"Lab results"}
