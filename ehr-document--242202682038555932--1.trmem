@@ -57,3 +57,374 @@
 {"source":"Éretlen   granulocyta   %   0.6   %   <0.8","target":"Immature granulocyte %0.6 % Ref Range <0.8"}
 {"source":"Neutrophil   granulocyta   #   2.92   G/L   1.80-7.00","target":"Neutrophil granulocyte # 2.92 G/L Ref. range: 1.8-7"}
 {"source":"Eosinophil   granulocyta   #   0.00   G/L   <1.00","target":"Eosinophil granulocyte # 0.00 G/L Ref. Range < 1.00"}
+{"source":"Basophyl   granulocyta   #   0.00   G/L   <0.20","target":"Basophil granulocyte # 0.00 G/L <0.20"}
+{"source":"Monocyta   #   0.34   G/L   0.15-0.90","target":"Monocyte # 0.34 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   0.33   G/L   L   1.00-4.00","target":"Lymphocyte # 0.33 G/L L 1.00-4.00"}
+{"source":"Vörösvértest   szám   2.46   T/L   L   4.50-5.90","target":"Red blood cell count 2.46 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   75   g/L   L   135-170","target":"Hemoglobin 75 g/L L 135-170"}
+{"source":"Hematokrit   0.20   L/L   L   0.39-0.52","target":"Hematocrit 0.20 L/L L 0.39-0.52"}
+{"source":"MCV   80.9   fL   80.0-99.0","target":"MCV 80.9 fL 80.0-99.0"}
+{"source":"MCH   30.5   pg   27.0-34.0","target":"MCH 30.5 pg 27.0-34.0"}
+{"source":"MCHC   377   g/L   H   315-360","target":"MCHC 377 g/L H 315-360"}
+{"source":"RDW   13.9   %   11.5-15.0","target":"RDW 13.9 % 11.5-15.0"}
+{"source":"NRBC   %   0.30   /100 fvs   <2.00","target":"NRBC % 0.30 /100 WBC <2.00"}
+{"source":"NRBC   #   0.01   G/L","target":"NRBC # 0.01 G/L"}
+{"source":"Thrombocyta   szám   54   G/L   L   150-400","target":"Platelet count 54 G/L L 150-400"}
+{"source":"MPV   11.0   fL   7.0-12.5","target":"MPV 11.0 fL 7.0-12.5"}
+{"source":"Prothrombin   idõ   14.8   sec   H   10.7-14.6","target":"Prothrombin time 14.8 sec H 10.7-14.6"}
+{"source":"INR   1.21   H   0.85-1.20","target":"INR 1.21 H 0.85-1.20"}
+{"source":"CRP   33.45   mg/L   H   <5.00","target":"CRP 33.45 mg/L H <5.00"}
+{"source":"Glükóz   5.9   mmol/L   4.1-5.9","target":"Glucose 5.9 mmol/L 4.1-5.9"}
+{"source":"Karbamid   26.1   mmol/L   H   2.8-7.2","target":"Urea 26.1 mmol/L H 2.8-7.2"}
+{"source":"Kreatinin   153   μmol/L   H   59-104","target":"Creatinine 153 μmol/L H 59-104"}
+{"source":"GFR   EPI   49   ml/min/1   L   90-120","target":"GFR EPI 49 ml/min/1 L 90-120"}
+{"source":"e-MedSolution   Oldal   3 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 Bilirubin   (össz)   25.5   μmol/l   H   5.0-21.0","target":"e-MedSolution Page 3 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 Bilirubin (total) 25.5 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   208   U/L   H   <50","target":"GOT (ASAT) 208 U/L H <50"}
+{"source":"GPT   (ALAT)   472   U/L   H   <50","target":"GPT (ALAT) 472 U/L H <50"}
+{"source":"GGT   233   U/L   H   <55","target":"GGT 233 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   92   U/l   30-120","target":"Alkaline phosphatase 92 U/l 30-120"}
+{"source":"LDH   288   U/L   H   <248","target":"LDH 288 U/L H <248"}
+{"source":"Amiláz   (szérum)   28   U/L   28-100","target":"Amylase (serum) 28 U/L 28-100"}
+{"source":"Lipáz   20   U/L   <67","target":"Lipase 20 U/L <67"}
+{"source":"Összfehérje   51   g/L   L   66-83","target":"Total protein 51 g/L L 66-83"}
+{"source":"Albumin   32   g/L   L   35-52","target":"Albumin 32 g/L L 35-52"}
+{"source":"Nátrium   129   mmol/L   L   135-146","target":"Sodium 129 mmol/L L 135-146"}
+{"source":"Kálium   4.3   mmol/L   3.5-5.1","target":"Potassium 4.3 mmol/L 3.5-5.1"}
+{"source":"2022.04.10 Teljes   vérkép   IV.","target":"2022.04.10 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   3.00   G/L   L   4.00-10.00","target":"White blood cell count 3.00 G/L L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   67.7   %   45.0-70.0","target":"Neutrophil granulocyte % 67.7 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   2.3   %   <5.0","target":"Eosinophil granulocyte % 2.3 % <5.0"}
+{"source":"Basophil   granulocyta   %   0.0   %   <2.0","target":"Basophil granulocyte % 0.0 % <2.0"}
+{"source":"Monocyta   %   10.0   %   2.0-10.0","target":"Monocyte % 10.0 % 2.0-10.0"}
+{"source":"Lymphocyta   %   20.0   %   L   25.0-45.0","target":"Lymphocyte % 20.0 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   0.7   %   <0.8","target":"Immature granulocyte % 0.7 % <0.8"}
+{"source":"Neutrophil   granulocyta   #   2.03   G/L   1.80-7.00","target":"Neutrophil granulocyte # 2.03 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.07   G/L   <1.00","target":"Eosinophil granulocyte # 0.07 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.00   G/L   <0.20","target":"Basophil granulocyte # 0.00 G/L <0.20"}
+{"source":"Monocyta   #   0.30   G/L   0.15-0.90","target":"Monocyte # 0.30 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   0.60   G/L   L   1.00-4.00","target":"Lymphocyte # 0.60 G/L L 1.00-4.00"}
+{"source":"Vörösvértest   szám   2.87   T/L   L   4.50-5.90","target":"Red blood cell count 2.87 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   86   g/L   L   135-170","target":"Hemoglobin 86 g/L L 135-170"}
+{"source":"Hematokrit   0.24   L/L   L   0.39-0.52","target":"Hematocrit 0.24 L/L L 0.39-0.52"}
+{"source":"MCV   84.7   fL   80.0-99.0","target":"MCV 84.7 fL 80.0-99.0"}
+{"source":"MCH   30.0   pg   27.0-34.0","target":"MCH 30.0 pg 27.0-34.0"}
+{"source":"MCHC   354   g/L   315-360","target":"MCHC 354 g/L 315-360"}
+{"source":"RDW   13.7   %   11.5-15.0","target":"RDW 13.7 % 11.5-15.0"}
+{"source":"NRBC   %   1.30   /100 fvs   <2.00","target":"NRBC % 1.30 /100 WBC <2.00"}
+{"source":"NRBC   #   0.04   G/L","target":"NRBC # 0.04 G/L"}
+{"source":"Thrombocyta   szám   62   G/L   L   150-400","target":"Platelet count 62 G/L L 150-400"}
+{"source":"MPV   11.4   fL   7.0-12.5","target":"MPV 11.4 fL 7.0-12.5"}
+{"source":"CRP   20.85   mg/L   H   <5.00","target":"CRP 20.85 mg/L H <5.00"}
+{"source":"Glükóz   4.7   mmol/L   4.1-5.9","target":"Glucose 4.7 mmol/L 4.1-5.9"}
+{"source":"Karbamid   20.3   mmol/L   H   2.8-7.2","target":"Urea 20.3 mmol/L H 2.8-7.2"}
+{"source":"Kreatinin   112   μmol/L   H   59-104","target":"Creatinine 112 μmol/L H 59-104"}
+{"source":"GFR   EPI   72   ml/min/1   L   90-120","target":"GFR EPI 72 ml/min/1 L 90-120"}
+{"source":"Bilirubin   (össz)   31.6   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 31.6 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   147   U/L   H   <50","target":"GOT (ASAT) 147 U/L H <50"}
+{"source":"GPT   (ALAT)   385   U/L   H   <50","target":"GPT (ALAT) 385 U/L H <50"}
+{"source":"GGT   391   U/L   H   <55","target":"GGT 391 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   125   U/l   H   30-120","target":"Alkaline phosphatase 125 U/l H 30-120"}
+{"source":"LDH   280   U/L   H   <248","target":"LDH 280 U/L H <248"}
+{"source":"Amiláz   (szérum)   23   U/L   L   28-100","target":"Amylase (serum) 23 U/L L 28-100"}
+{"source":"Lipáz   16   U/L   <67","target":"Lipase 16 U/L <67"}
+{"source":"Összfehérje   54   g/L   L   66-83","target":"Total protein 54 g/L L 66-83"}
+{"source":"Albumin   34   g/L   L   35-52","target":"Albumin 34 g/L L 35-52"}
+{"source":"Nátrium   133   mmol/L   L   135-146","target":"Sodium 133 mmol/L L 135-146"}
+{"source":"Kálium   4.1   mmol/L   3.5-5.1","target":"Potassium 4.1 mmol/L 3.5-5.1"}
+{"source":"Prothrombin   idõ   13.8   sec   10.7-14.6","target":"Prothrombin time 13.8 sec 10.7-14.6"}
+{"source":"INR   1.12   0.85-1.20","target":"INR 1.12 0.85-1.20"}
+{"source":"2022.04.11 Prothrombin   idõ   13.9   sec   10.7-14.6","target":"2022.04.11 Prothrombin time 13.9 sec 10.7-14.6"}
+{"source":"INR   1.13   0.85-1.20","target":"INR 1.13 0.85-1.20"}
+{"source":"e-MedSolution   Oldal   4 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 Teljes   vérkép   IV.","target":"e-MedSolution Page 4 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   4.07   G/L   4.00-10.00","target":"White blood cell count 4.07 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   65.3   %   45.0-70.0","target":"Neutrophil granulocyte % 65.3 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   7.6   %   H   <5.0","target":"Eosinophil granulocyte % 7.6 % H <5.0"}
+{"source":"Basophil   granulocyta   %   0.0   %   <2.0","target":"Basophil granulocyte % 0.0 % <2.0"}
+{"source":"Monocyta   %   10.1   %   H   2.0-10.0","target":"Monocyte % 10.1 % H 2.0-10.0"}
+{"source":"Lymphocyta   %   17.0   %   L   25.0-45.0","target":"Lymphocyte % 17.0 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   1.5   %   H   <0.8","target":"Immature granulocyte % 1.5 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   2.66   G/L   1.80-7.00","target":"Neutrophil granulocyte # 2.66 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.31   G/L   <1.00","target":"Eosinophil granulocyte # 0.31 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.00   G/L   <0.20","target":"Basophil granulocyte # 0.00 G/L <0.20"}
+{"source":"Monocyta   #   0.41   G/L   0.15-0.90","target":"Monocyte # 0.41 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   0.69   G/L   L   1.00-4.00","target":"Lymphocyte # 0.69 G/L L 1.00-4.00"}
+{"source":"Vörösvértest   szám   2.95   T/L   L   4.50-5.90","target":"Red blood cell count 2.95 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   90   g/L   L   135-170","target":"Hemoglobin 90 g/L L 135-170"}
+{"source":"Hematokrit   0.24   L/L   L   0.39-0.52","target":"Hematocrit 0.24 L/L L 0.39-0.52"}
+{"source":"MCV   83.1   fL   80.0-99.0","target":"MCV 83.1 fL 80.0-99.0"}
+{"source":"MCH   30.5   pg   27.0-34.0","target":"MCH 30.5 pg 27.0-34.0"}
+{"source":"MCHC   367   g/L   H   315-360","target":"MCHC 367 g/L H 315-360"}
+{"source":"RDW   14.0   %   11.5-15.0","target":"RDW 14.0 % 11.5-15.0"}
+{"source":"NRBC   %   1.50   /100 fvs   <2.00","target":"NRBC % 1.50 /100 WBC <2.00"}
+{"source":"NRBC   #   0.06   G/L","target":"NRBC # 0.06 G/L"}
+{"source":"Thrombocyta   szám   79   G/L   L   150-400","target":"Platelet count 79 G/L L 150-400"}
+{"source":"MPV   10.6   fL   7.0-12.5","target":"MPV 10.6 fL 7.0-12.5"}
+{"source":"CRP   18.51   mg/L   H   <5.00","target":"CRP 18.51 mg/L H <5.00"}
+{"source":"Glükóz   4.1   mmol/L   4.1-5.9","target":"Glucose 4.1 mmol/L 4.1-5.9"}
+{"source":"Karbamid   12.1   mmol/L   H   2.8-7.2","target":"Urea 12.1 mmol/L H 2.8-7.2"}
+{"source":"Kreatinin   92   μmol/L   59-104","target":"Creatinine 92 μmol/L 59-104"}
+{"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
+{"source":"Bilirubin   (össz)   35.0   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 35.0 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   90   U/L   H   <50","target":"GOT (ASAT) 90 U/L H <50"}
+{"source":"GPT   (ALAT)   293   U/L   H   <50","target":"GPT (ALAT) 293 U/L H <50"}
+{"source":"GGT   464   U/L   H   <55","target":"GGT 464 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   153   U/l   H   30-120","target":"Alkaline phosphatase 153 U/l H 30-120"}
+{"source":"LDH   242   U/L   <248","target":"LDH 242 U/L <248"}
+{"source":"Amiláz   (szérum)   14   U/L   L   28-100","target":"Amylase (serum) 14 U/L L 28-100"}
+{"source":"Lipáz   10   U/L   <67","target":"Lipase 10 U/L <67"}
+{"source":"Összfehérje   52   g/L   L   66-83","target":"Total protein 52 g/L L 66-83"}
+{"source":"Albumin   32   g/L   L   35-52","target":"Albumin 32 g/L L 35-52"}
+{"source":"Nátrium   134   mmol/L   L   135-146","target":"Sodium 134 mmol/L L 135-146"}
+{"source":"Kálium   3.9   mmol/L   3.5-5.1","target":"Potassium 3.9 mmol/L 3.5-5.1"}
+{"source":"2022.04.11 PROGRAF   6.80   ng/mL   4.00-20.00","target":"2022.04.11 PROGRAF 6.80 ng/mL 4.00-20.00"}
+{"source":"2022.04.12 CRP   23.18   mg/L   H   <5.00","target":"2022.04.12 CRP 23.18 mg/L H <5.00"}
+{"source":"Glükóz   5.6   mmol/L   4.1-5.9","target":"Glucose 5.6 mmol/L 4.1-5.9"}
+{"source":"Karbamid   5.7   mmol/L   2.8-7.2","target":"Urea 5.7 mmol/L 2.8-7.2"}
+{"source":"Kreatinin   81   μmol/L   59-104","target":"Creatinine 81 μmol/L 59-104"}
+{"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
+{"source":"Bilirubin   (össz)   35.2   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 35.2 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   56   U/L   H   <50","target":"GOT (ASAT) 56 U/L H <50"}
+{"source":"GPT   (ALAT)   229   U/L   H   <50","target":"GPT (ALAT) 229 U/L H <50"}
+{"source":"GGT   505   U/L   H   <55","target":"GGT 505 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   192   U/l   H   30-120","target":"Alkaline phosphatase 192 U/l H 30-120"}
+{"source":"LDH   238   U/L   <248","target":"LDH 238 U/L <248"}
+{"source":"Amiláz   (szérum)   12   U/L   L   28-100","target":"Amylase (serum) 12 U/L L 28-100"}
+{"source":"Lipáz   6   U/L   <67","target":"Lipase 6 U/L <67"}
+{"source":"Összfehérje   53   g/L   L   66-83","target":"Total protein 53 g/L L 66-83"}
+{"source":"Albumin   33   g/L   L   35-52","target":"Albumin 33 g/L L 35-52"}
+{"source":"e-MedSolution   Oldal   5 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 Nátrium   135   mmol/L   135-146","target":"e-MedSolution Page 5 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 Sodium 135 mmol/L 135-146"}
+{"source":"Kálium   3.5   mmol/L   3.5-5.1","target":"Potassium 3.5 mmol/L 3.5-5.1"}
+{"source":"Prothrombin   idõ   13.3   sec   10.7-14.6","target":"Prothrombin time 13.3 sec 10.7-14.6"}
+{"source":"INR   1.10   0.85-1.20","target":"INR 1.10 0.85-1.20"}
+{"source":"Teljes   vérkép   IV.","target":"Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   7.29   G/L   4.00-10.00","target":"White blood cell count 7.29 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   67.6   %   45.0-70.0","target":"Neutrophil granulocyte % 67.6 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   8.0   %   H   <5.0","target":"Eosinophil granulocyte % 8.0 % H <5.0"}
+{"source":"Basophil   granulocyta   %   0.1   %   <2.0","target":"Basophil granulocyte % 0.1 % <2.0"}
+{"source":"Monocyta   %   12.6   %   H   2.0-10.0","target":"Monocyte % 12.6 % H 2.0-10.0"}
+{"source":"Lymphocyta   %   11.7   %   L   25.0-45.0","target":"Lymphocyte % 11.7 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   2.9   %   H   <0.8","target":"Immature granulocyte % 2.9 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   4.93   G/L   1.80-7.00","target":"Neutrophil granulocyte # 4.93 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.58   G/L   <1.00","target":"Eosinophil granulocyte # 0.58 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.01   G/L   <0.20","target":"Basophil granulocyte # 0.01 G/L <0.20"}
+{"source":"Monocyta   #   0.92   G/L   H   0.15-0.90","target":"Monocyte # 0.92 G/L H 0.15-0.90"}
+{"source":"Lymphocyta   #   0.85   G/L   L   1.00-4.00","target":"Lymphocyte # 0.85 G/L L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.20   T/L   L   4.50-5.90","target":"Red blood cell count 3.20 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   98   g/L   L   135-170","target":"Hemoglobin 98 g/L L 135-170"}
+{"source":"Hematokrit   0.27   L/L   L   0.39-0.52","target":"Hematocrit 0.27 L/L L 0.39-0.52"}
+{"source":"MCV   83.8   fL   80.0-99.0","target":"MCV 83.8 fL 80.0-99.0"}
+{"source":"MCH   30.6   pg   27.0-34.0","target":"MCH 30.6 pg 27.0-34.0"}
+{"source":"MCHC   366   g/L   H   315-360","target":"MCHC 366 g/L H 315-360"}
+{"source":"RDW   14.6   %   11.5-15.0","target":"RDW 14.6 % 11.5-15.0"}
+{"source":"NRBC   %   1.60   /100 fvs   <2.00","target":"NRBC % 1.60 /100 WBC <2.00"}
+{"source":"NRBC   #   0.12   G/L","target":"NRBC # 0.12 G/L"}
+{"source":"Thrombocyta   szám   113   G/L   L   150-400","target":"Platelet count 113 G/L L 150-400"}
+{"source":"MPV   10.3   fL   7.0-12.5","target":"MPV 10.3 fL 7.0-12.5"}
+{"source":"2022.04.13 PROGRAF   6.00   ng/mL   4.00-20.00","target":"2022.04.13 PROGRAF 6.00 ng/mL 4.00-20.00"}
+{"source":"2022.04.13 Prothrombin   idõ   12.8   sec   10.7-14.6","target":"2022.04.13 Prothrombin time 12.8 sec 10.7-14.6"}
+{"source":"INR   1.05   0.85-1.20","target":"INR 1.05 0.85-1.20"}
+{"source":"Teljes   vérkép   IV.","target":"Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   7.71   G/L   4.00-10.00","target":"White blood cell count 7.71 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   66.0   %   45.0-70.0","target":"Neutrophil granulocyte % 66.0 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   8.4   %   H   <5.0","target":"Eosinophil granulocyte % 8.4 % H <5.0"}
+{"source":"Basophil   granulocyta   %   0.1   %   <2.0","target":"Basophil granulocyte % 0.1 % <2.0"}
+{"source":"Monocyta   %   11.0   %   H   2.0-10.0","target":"Monocyte % 11.0 % H 2.0-10.0"}
+{"source":"Lymphocyta   %   14.5   %   L   25.0-45.0","target":"Lymphocyte % 14.5 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   3.9   %   H   <0.8","target":"Immature granulocyte % 3.9 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   5.08   G/L   1.80-7.00","target":"Neutrophil granulocyte # 5.08 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.65   G/L   <1.00","target":"Eosinophil granulocyte # 0.65 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.01   G/L   <0.20","target":"Basophil granulocyte # 0.01 G/L <0.20"}
+{"source":"Monocyta   #   0.85   G/L   0.15-0.90","target":"Monocyte # 0.85 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   1.12   G/L   1.00-4.00","target":"Lymphocyte # 1.12 G/L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.39   T/L   L   4.50-5.90","target":"Red blood cell count 3.39 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   101   g/L   L   135-170","target":"Hemoglobin 101 g/L L 135-170"}
+{"source":"Hematokrit   0.30   L/L   L   0.39-0.52","target":"Hematocrit 0.30 L/L L 0.39-0.52"}
+{"source":"MCV   87.0   fL   80.0-99.0","target":"MCV 87.0 fL 80.0-99.0"}
+{"source":"MCH   29.8   pg   27.0-34.0","target":"MCH 29.8 pg 27.0-34.0"}
+{"source":"MCHC   342   g/L   315-360","target":"MCHC 342 g/L 315-360"}
+{"source":"RDW   15.6   %   H   11.5-15.0","target":"RDW 15.6 % H 11.5-15.0"}
+{"source":"NRBC   %   1.30   /100 fvs   <2.00","target":"NRBC % 1.30 /100 WBC <2.00"}
+{"source":"NRBC   #   0.10   G/L","target":"NRBC # 0.10 G/L"}
+{"source":"Thrombocyta   szám   142   G/L   L   150-400","target":"Platelet count 142 G/L L 150-400"}
+{"source":"MPV   10.2   fL   7.0-12.5","target":"MPV 10.2 fL 7.0-12.5"}
+{"source":"CRP   20.16   mg/L   H   <5.00","target":"CRP 20.16 mg/L H <5.00"}
+{"source":"Glükóz   5.0   mmol/L   4.1-5.9","target":"Glucose 5.0 mmol/L 4.1-5.9"}
+{"source":"e-MedSolution   Oldal   6 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 Karbamid   4.4   mmol/L   2.8-7.2","target":"e-MedSolution Page 6 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 Urea 4.4 mmol/L 2.8-7.2"}
+{"source":"Kreatinin   89   μmol/L   59-104","target":"Creatinine 89 μmol/L 59-104"}
+{"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
+{"source":"Bilirubin   (össz)   37.6   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 37.6 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   41   U/L   <50","target":"GOT (ASAT) 41 U/L <50"}
+{"source":"GPT   (ALAT)   177   U/L   H   <50","target":"GPT (ALAT) 177 U/L H <50"}
+{"source":"GGT   509   U/L   H   <55","target":"GGT 509 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   213   U/l   H   30-120","target":"Alkaline phosphatase 213 U/l H 30-120"}
+{"source":"LDH   235   U/L   <248","target":"LDH 235 U/L <248"}
+{"source":"Amiláz   (szérum)   12   U/L   L   28-100","target":"Amylase (serum) 12 U/L L 28-100"}
+{"source":"Lipáz   11   U/L   <67","target":"Lipase 11 U/L <67"}
+{"source":"Összfehérje   56   g/L   L   66-83","target":"Total protein 56 g/L L 66-83"}
+{"source":"Albumin   34   g/L   L   35-52","target":"Albumin 34 g/L L 35-52"}
+{"source":"Nátrium   137   mmol/L   135-146","target":"Sodium 137 mmol/L 135-146"}
+{"source":"Kálium   3.5   mmol/L   3.5-5.1","target":"Potassium 3.5 mmol/L 3.5-5.1"}
+{"source":"2022.04.14 PROGRAF   6.80   ng/mL   4.00-20.00","target":"2022.04.14 PROGRAF 6.80 ng/mL 4.00-20.00"}
+{"source":"2022.04.14 Teljes   vérkép   IV.","target":"2022.04.14 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   9.19   G/L   4.00-10.00","target":"White blood cell count 9.19 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   66.7   %   45.0-70.0","target":"Neutrophil granulocyte % 66.7 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   6.0   %   H   <5.0","target":"Eosinophil granulocyte % 6.0 % H <5.0"}
+{"source":"Basophil   granulocyta   %   0.2   %   <2.0","target":"Basophil granulocyte % 0.2 % <2.0"}
+{"source":"Monocyta   %   9.9   %   2.0-10.0","target":"Monocyte % 9.9 % 2.0-10.0"}
+{"source":"Lymphocyta   %   17.2   %   L   25.0-45.0","target":"Lymphocyte % 17.2 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   4.0   %   H   <0.8","target":"Immature granulocyte % 4.0 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   6.13   G/L   1.80-7.00","target":"Neutrophil granulocyte # 6.13 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.55   G/L   <1.00","target":"Eosinophil granulocyte # 0.55 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.02   G/L   <0.20","target":"Basophil granulocyte # 0.02 G/L <0.20"}
+{"source":"Monocyta   #   0.91   G/L   H   0.15-0.90","target":"Monocyte # 0.91 G/L H 0.15-0.90"}
+{"source":"Lymphocyta   #   1.58   G/L   1.00-4.00","target":"Lymphocyte # 1.58 G/L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.61   T/L   L   4.50-5.90","target":"Red blood cell count 3.61 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   112   g/L   L   135-170","target":"Hemoglobin 112 g/L L 135-170"}
+{"source":"Hematokrit   0.31   L/L   L   0.39-0.52","target":"Hematocrit 0.31 L/L L 0.39-0.52"}
+{"source":"MCV   85.0   fL   80.0-99.0","target":"MCV 85.0 fL 80.0-99.0"}
+{"source":"MCH   31.0   pg   27.0-34.0","target":"MCH 31.0 pg 27.0-34.0"}
+{"source":"MCHC   365   g/L   H   315-360","target":"MCHC 365 g/L H 315-360"}
+{"source":"RDW   16.4   %   H   11.5-15.0","target":"RDW 16.4 % H 11.5-15.0"}
+{"source":"NRBC   %   0.80   /100 fvs   <2.00","target":"NRBC % 0.80 /100 WBC <2.00"}
+{"source":"NRBC   #   0.07   G/L","target":"NRBC # 0.07 G/L"}
+{"source":"Thrombocyta   szám   174   G/L   150-400","target":"Platelet count 174 G/L 150-400"}
+{"source":"MPV   10.1   fL   7.0-12.5","target":"MPV 10.1 fL 7.0-12.5"}
+{"source":"CRP   16.93   mg/L   H   <5.00","target":"CRP 16.93 mg/L H <5.00"}
+{"source":"Karbamid   4.4   mmol/L   2.8-7.2","target":"Urea 4.4 mmol/L 2.8-7.2"}
+{"source":"Kreatinin   100   μmol/L   59-104","target":"Creatinine 100 μmol/L 59-104"}
+{"source":"GFR   EPI   82   ml/min/1   L   90-120","target":"GFR EPI 82 ml/min/1 L 90-120"}
+{"source":"Bilirubin   (össz)   39.8   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 39.8 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   34   U/L   <50","target":"GOT (ASAT) 34 U/L <50"}
+{"source":"GPT   (ALAT)   148   U/L   H   <50","target":"GPT (ALAT) 148 U/L H <50"}
+{"source":"GGT   527   U/L   H   <55","target":"GGT 527 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   229   U/l   H   30-120","target":"Alkaline phosphatase 229 U/l H 30-120"}
+{"source":"LDH   229   U/L   <248","target":"LDH 229 U/L <248"}
+{"source":"Amiláz   (szérum)   16   U/L   L   28-100","target":"Amylase (serum) 16 U/L L 28-100"}
+{"source":"Lipáz   12   U/L   <67","target":"Lipase 12 U/L <67"}
+{"source":"Nátrium   138   mmol/L   135-146","target":"Sodium 138 mmol/L 135-146"}
+{"source":"Kálium   3.5   mmol/L   3.5-5.1","target":"Potassium 3.5 mmol/L 3.5-5.1"}
+{"source":"2022.04.16 PROGRAF   9.80   ng/mL   4.00-20.00","target":"2022.04.16 PROGRAF 9.80 ng/mL 4.00-20.00"}
+{"source":"e-MedSolution   Oldal   7 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 2022.04.16 Teljes   vérkép   IV.","target":"e-MedSolution Page 7 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 2022.04.16 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   6.89   G/L   4.00-10.00","target":"White blood cell count 6.89 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   64.3   %   45.0-70.0","target":"Neutrophil granulocyte % 64.3 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   3.9   %   <5.0","target":"Eosinophil granulocyte % 3.9 % <5.0"}
+{"source":"Basophil   granulocyta   %   0.3   %   <2.0","target":"Basophil granulocyte % 0.3 % <2.0"}
+{"source":"Monocyta   %   9.0   %   2.0-10.0","target":"Monocyte % 9.0 % 2.0-10.0"}
+{"source":"Lymphocyta   %   22.5   %   L   25.0-45.0","target":"Lymphocyte % 22.5 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   1.9   %   H   <0.8","target":"Immature granulocyte % 1.9 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   4.43   G/L   1.80-7.00","target":"Neutrophil granulocyte # 4.43 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.27   G/L   <1.00","target":"Eosinophil granulocyte # 0.27 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.02   G/L   <0.20","target":"Basophil granulocyte # 0.02 G/L <0.20"}
+{"source":"Monocyta   #   0.62   G/L   0.15-0.90","target":"Monocyte # 0.62 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   1.55   G/L   1.00-4.00","target":"Lymphocyte # 1.55 G/L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.65   T/L   L   4.50-5.90","target":"Red blood cell count 3.65 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   109   g/L   L   135-170","target":"Hemoglobin 109 g/L L 135-170"}
+{"source":"Hematokrit   0.31   L/L   L   0.39-0.52","target":"Hematocrit 0.31 L/L L 0.39-0.52"}
+{"source":"MCV   84.4   fL   80.0-99.0","target":"MCV 84.4 fL 80.0-99.0"}
+{"source":"MCH   29.9   pg   27.0-34.0","target":"MCH 29.9 pg 27.0-34.0"}
+{"source":"MCHC   354   g/L   315-360","target":"MCHC 354 g/L 315-360"}
+{"source":"RDW   17.1   %   H   11.5-15.0","target":"RDW 17.1 % H 11.5-15.0"}
+{"source":"NRBC   %   0.10   /100 fvs   <2.00","target":"NRBC % 0.10 /100 WBC <2.00"}
+{"source":"NRBC   #   0.01   G/L","target":"NRBC # 0.01 G/L"}
+{"source":"Thrombocyta   szám   124   G/L   L   150-400","target":"Platelet count 124 G/L L 150-400"}
+{"source":"MPV   9.3   fL   7.0-12.5","target":"MPV 9.3 fL 7.0-12.5"}
+{"source":"CRP   11.54   mg/L   H   <5.00","target":"CRP 11.54 mg/L H <5.00"}
+{"source":"Karbamid   6.6   mmol/L   2.8-7.2","target":"Urea 6.6 mmol/L 2.8-7.2"}
+{"source":"Kreatinin   119   μmol/L   H   59-104","target":"Creatinine 119 μmol/L H 59-104"}
+{"source":"GFR   EPI   66   ml/min/1   L   90-120","target":"GFR EPI 66 ml/min/1 L 90-120"}
+{"source":"Bilirubin   (össz)   34.8   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 34.8 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   38   U/L   <50","target":"GOT (ASAT) 38 U/L <50"}
+{"source":"GPT   (ALAT)   103   U/L   H   <50","target":"GPT (ALAT) 103 U/L H <50"}
+{"source":"GGT   436   U/L   H   <55","target":"GGT 436 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   202   U/l   H   30-120","target":"Alkaline phosphatase 202 U/l H 30-120"}
+{"source":"LDH   210   U/L   <248","target":"LDH 210 U/L <248"}
+{"source":"Amiláz   (szérum)   17   U/L   L   28-100","target":"Amylase (serum) 17 U/L L 28-100"}
+{"source":"Lipáz   15   U/L   <67","target":"Lipase 15 U/L <67"}
+{"source":"Nátrium   135   mmol/L   135-146","target":"Sodium 135 mmol/L 135-146"}
+{"source":"Kálium   3.6   mmol/L   3.5-5.1","target":"Potassium 3.6 mmol/L 3.5-5.1"}
+{"source":"2022.04.18 PROGRAF   12.30   ng/mL   4.00-20.00","target":"2022.04.18 PROGRAF 12.30 ng/mL 4.00-20.00"}
+{"source":"2022.04.18 Teljes   vérkép   IV.","target":"2022.04.18 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   6.77   G/L   4.00-10.00","target":"White blood cell count 6.77 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   69.7   %   45.0-70.0","target":"Neutrophil granulocyte % 69.7 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   1.8   %   <5.0","target":"Eosinophil granulocyte % 1.8 % <5.0"}
+{"source":"Basophil   granulocyta   %   0.3   %   <2.0","target":"Basophil granulocyte % 0.3 % <2.0"}
+{"source":"Monocyta   %   8.1   %   2.0-10.0","target":"Monocyte % 8.1 % 2.0-10.0"}
+{"source":"Lymphocyta   %   20.1   %   L   25.0-45.0","target":"Lymphocyte % 20.1 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   0.9   %   H   <0.8","target":"Immature granulocyte % 0.9 % H <0.8"}
+{"source":"Neutrophil   granulocyta   #   4.72   G/L   1.80-7.00","target":"Neutrophil granulocyte # 4.72 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.12   G/L   <1.00","target":"Eosinophil granulocyte # 0.12 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.02   G/L   <0.20","target":"Basophil granulocyte # 0.02 G/L <0.20"}
+{"source":"Monocyta   #   0.55   G/L   0.15-0.90","target":"Monocyte # 0.55 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   1.36   G/L   1.00-4.00","target":"Lymphocyte # 1.36 G/L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.61   T/L   L   4.50-5.90","target":"Red blood cell count 3.61 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   107   g/L   L   135-170","target":"Hemoglobin 107 g/L L 135-170"}
+{"source":"Hematokrit   0.30   L/L   L   0.39-0.52","target":"Hematocrit 0.30 L/L L 0.39-0.52"}
+{"source":"e-MedSolution   Oldal   8 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 MCV   83.7   fL   80.0-99.0","target":"e-MedSolution Page 8 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 MCV 83.7 fL 80.0-99.0"}
+{"source":"MCH   29.6   pg   27.0-34.0","target":"MCH 29.6 pg 27.0-34.0"}
+{"source":"MCHC   354   g/L   315-360","target":"MCHC 354 g/L 315-360"}
+{"source":"RDW   16.9   %   H   11.5-15.0","target":"RDW 16.9 % H 11.5-15.0"}
+{"source":"NRBC   %   /100 fvs   <2.00   (1)","target":"NRBC % /100 WBC <2.00 (1)"}
+{"source":"NRBC   #   G/L   (2)","target":"NRBC # G/L (2)"}
+{"source":"Thrombocyta   szám   116   G/L   L   150-400","target":"Platelet count 116 G/L L 150-400"}
+{"source":"MPV   9.2   fL   7.0-12.5","target":"MPV 9.2 fL 7.0-12.5"}
+{"source":"CRP   10.00   mg/L   H   <5.00","target":"CRP 10.00 mg/L H <5.00"}
+{"source":"Glükóz   5.4   mmol/L   4.1-5.9","target":"Glucose 5.4 mmol/L 4.1-5.9"}
+{"source":"Karbamid   11.1   mmol/L   H   2.8-7.2","target":"Urea 11.1 mmol/L H 2.8-7.2"}
+{"source":"Kreatinin   148   μmol/L   H   59-104","target":"Creatinine 148 μmol/L H 59-104"}
+{"source":"GFR   EPI   51   ml/min/1   L   90-120","target":"GFR EPI 51 ml/min/1 L 90-120"}
+{"source":"Bilirubin   (össz)   33.9   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 33.9 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   32   U/L   <50","target":"GOT (ASAT) 32 U/L <50"}
+{"source":"GPT   (ALAT)   86   U/L   H   <50","target":"GPT (ALAT) 86 U/L H <50"}
+{"source":"GGT   363   U/L   H   <55","target":"GGT 363 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   168   U/l   H   30-120","target":"Alkaline phosphatase 168 U/l H 30-120"}
+{"source":"LDH   181   U/L   <248","target":"LDH 181 U/L <248"}
+{"source":"Amiláz   (szérum)   20   U/L   L   28-100","target":"Amylase (serum) 20 U/L L 28-100"}
+{"source":"Lipáz   17   U/L   <67","target":"Lipase 17 U/L <67"}
+{"source":"Albumin   38   g/L   35-52","target":"Albumin 38 g/L 35-52"}
+{"source":"Nátrium   136   mmol/L   135-146","target":"Sodium 136 mmol/L 135-146"}
+{"source":"Kálium   3.8   mmol/L   3.5-5.1","target":"Potassium 3.8 mmol/L 3.5-5.1"}
+{"source":"Megjegyzések: (1):   Nem   számolható","target":"Notes: (1): Not calculable"}
+{"source":"(2):   Nem   detektálható","target":"(2): Not detectable"}
+{"source":"2022.04.19 Teljes   vérkép   IV.","target":"2022.04.19 Complete blood count IV."}
+{"source":"Fehérvérsejt   szám   6.57   G/L   4.00-10.00","target":"White blood cell count 6.57 G/L 4.00-10.00"}
+{"source":"Neutrophil   granulocyta   %   67.8   %   45.0-70.0","target":"Neutrophil granulocyte % 67.8 % 45.0-70.0"}
+{"source":"Eosinophil   granulocyta   %   1.5   %   <5.0","target":"Eosinophil granulocyte % 1.5 % <5.0"}
+{"source":"Basophil   granulocyta   %   0.5   %   <2.0","target":"Basophil granulocyte % 0.5 % <2.0"}
+{"source":"Monocyta   %   9.0   %   2.0-10.0","target":"Monocyte % 9.0 % 2.0-10.0"}
+{"source":"Lymphocyta   %   21.2   %   L   25.0-45.0","target":"Lymphocyte % 21.2 % L 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   0.8   %   <0.8","target":"Immature granulocyte % 0.8 % <0.8"}
+{"source":"Neutrophil   granulocyta   #   4.46   G/L   1.80-7.00","target":"Neutrophil granulocyte # 4.46 G/L 1.80-7.00"}
+{"source":"Eosinophil   granulocyta   #   0.10   G/L   <1.00","target":"Eosinophil granulocyte # 0.10 G/L <1.00"}
+{"source":"Basophyl   granulocyta   #   0.03   G/L   <0.20","target":"Basophil granulocyte # 0.03 G/L <0.20"}
+{"source":"Monocyta   #   0.59   G/L   0.15-0.90","target":"Monocyte # 0.59 G/L 0.15-0.90"}
+{"source":"Lymphocyta   #   1.39   G/L   1.00-4.00","target":"Lymphocyte # 1.39 G/L 1.00-4.00"}
+{"source":"Vörösvértest   szám   3.64   T/L   L   4.50-5.90","target":"Red blood cell count 3.64 T/L L 4.50-5.90"}
+{"source":"Hemoglobin   111   g/L   L   135-170","target":"Hemoglobin 111 g/L L 135-170"}
+{"source":"Hematokrit   0.30   L/L   L   0.39-0.52","target":"Hematocrit 0.30 L/L L 0.39-0.52"}
+{"source":"MCV   83.8   fL   80.0-99.0","target":"MCV 83.8 fL 80.0-99.0"}
+{"source":"MCH   30.5   pg   27.0-34.0","target":"MCH 30.5 pg 27.0-34.0"}
+{"source":"MCHC   364   g/L   H   315-360","target":"MCHC 364 g/L H 315-360"}
+{"source":"RDW   17.0   %   H   11.5-15.0","target":"RDW 17.0 % H 11.5-15.0"}
+{"source":"NRBC   %   /100 fvs   <2.00   (1)","target":"NRBC % /100 WBC <2.00 (1)"}
+{"source":"NRBC   #   G/L   (2)","target":"NRBC # G/L (2)"}
+{"source":"Thrombocyta   szám   125   G/L   L   150-400","target":"Platelet count 125 G/L L 150-400"}
+{"source":"MPV   9.3   fL   7.0-12.5","target":"MPV 9.3 fL 7.0-12.5"}
+{"source":"CRP   9.44   mg/L   H   <5.00","target":"CRP 9.44 mg/L H <5.00"}
+{"source":"Glükóz   5.4   mmol/L   4.1-5.9","target":"Glucose 5.4 mmol/L 4.1-5.9"}
+{"source":"Karbamid   12.6   mmol/L   H   2.8-7.2","target":"Urea 12.6 mmol/L H 2.8-7.2"}
+{"source":"Kreatinin   137   μmol/L   H   59-104","target":"Creatinine 137 μmol/L H 59-104"}
+{"source":"GFR   EPI   56   ml/min/1   L   90-120","target":"GFR EPI 56 ml/min/1 L 90-120"}
+{"source":"Bilirubin   (össz)   38.4   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 38.4 μmol/l H 5.0-21.0"}
+{"source":"GOT   (ASAT)   30   U/L   <50","target":"GOT (ASAT) 30 U/L <50"}
+{"source":"e-MedSolution   Oldal   9 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 GPT   (ALAT)   80   U/L   H   <50","target":"e-MedSolution Page 9 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 GPT (ALAT) 80 U/L H <50"}
+{"source":"GGT   339   U/L   H   <55","target":"GGT 339 U/L H <55"}
+{"source":"Alkalikus   foszfatáz   158   U/l   H   30-120","target":"Alkaline phosphatase 158 U/l H 30-120"}
+{"source":"LDH   165   U/L   <248","target":"LDH 165 U/L <248"}
+{"source":"Amiláz   (szérum)   20   U/L   L   28-100","target":"Amylase (serum) 20 U/L L 28-100"}
+{"source":"Lipáz   15   U/L   <67","target":"Lipase 15 U/L <67"}
+{"source":"Albumin   39   g/L   35-52","target":"Albumin 39 g/L 35-52"}
+{"source":"Nátrium   137   mmol/L   135-146","target":"Sodium 137 mmol/L 135-146"}
+{"source":"Kálium   4.0   mmol/L   3.5-5.1","target":"Potassium 4.0 mmol/L 3.5-5.1"}
+{"source":"Prokalcitonin   0.13   μg/L   <0.50","target":"Procalcitonin 0.13 μg/L <0.50"}
+{"source":"Megjegyzések: (1):   Nem   számolható","target":"Notes: (1): Not calculable"}
+{"source":"(2):   Nem   detektálható","target":"(2): Not detectable"}
