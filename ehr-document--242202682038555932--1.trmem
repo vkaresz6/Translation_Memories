@@ -79,8 +79,8 @@
 {"source":"Kreatinin   153   μmol/L   H   59-104","target":"Creatinine 153 μmol/L H 59-104"}
 {"source":"GFR   EPI   49   ml/min/1   L   90-120","target":"GFR EPI 49 ml/min/1 L 90-120"}
 {"source":"e-MedSolution   Oldal   3 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 Bilirubin   (össz)   25.5   μmol/l   H   5.0-21.0","target":"e-MedSolution Page 3 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 Bilirubin (total) 25.5 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   208   U/L   H   <50","target":"GOT (ASAT) 208 U/L H <50"}
-{"source":"GPT   (ALAT)   472   U/L   H   <50","target":"GPT (ALAT) 472 U/L H <50"}
+{"source":"GOT   (ASAT)   208   U/L   H   <50","target":"ASAT 208 U/L H <50"}
+{"source":"GPT   (ALAT)   472   U/L   H   <50","target":"ALAT 472 U/L H <50"}
 {"source":"GGT   233   U/L   H   <55","target":"GGT 233 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   92   U/l   30-120","target":"Alkaline phosphatase 92 U/l 30-120"}
 {"source":"LDH   288   U/L   H   <248","target":"LDH 288 U/L H <248"}
@@ -120,8 +120,8 @@
 {"source":"Kreatinin   112   μmol/L   H   59-104","target":"Creatinine 112 μmol/L H 59-104"}
 {"source":"GFR   EPI   72   ml/min/1   L   90-120","target":"GFR EPI 72 ml/min/1 L 90-120"}
 {"source":"Bilirubin   (össz)   31.6   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 31.6 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   147   U/L   H   <50","target":"GOT (ASAT) 147 U/L H <50"}
-{"source":"GPT   (ALAT)   385   U/L   H   <50","target":"GPT (ALAT) 385 U/L H <50"}
+{"source":"GOT   (ASAT)   147   U/L   H   <50","target":"ASAT 147 U/L H <50"}
+{"source":"GPT   (ALAT)   385   U/L   H   <50","target":"ALAT 385 U/L H <50"}
 {"source":"GGT   391   U/L   H   <55","target":"GGT 391 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   125   U/l   H   30-120","target":"Alkaline phosphatase 125 U/l H 30-120"}
 {"source":"LDH   280   U/L   H   <248","target":"LDH 280 U/L H <248"}
@@ -165,8 +165,8 @@
 {"source":"Kreatinin   92   μmol/L   59-104","target":"Creatinine 92 μmol/L 59-104"}
 {"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
 {"source":"Bilirubin   (össz)   35.0   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 35.0 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   90   U/L   H   <50","target":"GOT (ASAT) 90 U/L H <50"}
-{"source":"GPT   (ALAT)   293   U/L   H   <50","target":"GPT (ALAT) 293 U/L H <50"}
+{"source":"GOT   (ASAT)   90   U/L   H   <50","target":"ASAT 90 U/L H <50"}
+{"source":"GPT   (ALAT)   293   U/L   H   <50","target":"ALAT 293 U/L H <50"}
 {"source":"GGT   464   U/L   H   <55","target":"GGT 464 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   153   U/l   H   30-120","target":"Alkaline phosphatase 153 U/l H 30-120"}
 {"source":"LDH   242   U/L   <248","target":"LDH 242 U/L <248"}
@@ -183,8 +183,8 @@
 {"source":"Kreatinin   81   μmol/L   59-104","target":"Creatinine 81 μmol/L 59-104"}
 {"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
 {"source":"Bilirubin   (össz)   35.2   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 35.2 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   56   U/L   H   <50","target":"GOT (ASAT) 56 U/L H <50"}
-{"source":"GPT   (ALAT)   229   U/L   H   <50","target":"GPT (ALAT) 229 U/L H <50"}
+{"source":"GOT   (ASAT)   56   U/L   H   <50","target":"ASAT 56 U/L H <50"}
+{"source":"GPT   (ALAT)   229   U/L   H   <50","target":"ALAT 229 U/L H <50"}
 {"source":"GGT   505   U/L   H   <55","target":"GGT 505 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   192   U/l   H   30-120","target":"Alkaline phosphatase 192 U/l H 30-120"}
 {"source":"LDH   238   U/L   <248","target":"LDH 238 U/L <248"}
@@ -253,8 +253,8 @@
 {"source":"Kreatinin   89   μmol/L   59-104","target":"Creatinine 89 μmol/L 59-104"}
 {"source":"GFR   EPI   >90   ml/min/1   90-120","target":"GFR EPI >90 ml/min/1 90-120"}
 {"source":"Bilirubin   (össz)   37.6   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 37.6 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   41   U/L   <50","target":"GOT (ASAT) 41 U/L <50"}
-{"source":"GPT   (ALAT)   177   U/L   H   <50","target":"GPT (ALAT) 177 U/L H <50"}
+{"source":"GOT   (ASAT)   41   U/L   <50","target":"ASAT 41 U/L <50"}
+{"source":"GPT   (ALAT)   177   U/L   H   <50","target":"ALAT 177 U/L H <50"}
 {"source":"GGT   509   U/L   H   <55","target":"GGT 509 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   213   U/l   H   30-120","target":"Alkaline phosphatase 213 U/l H 30-120"}
 {"source":"LDH   235   U/L   <248","target":"LDH 235 U/L <248"}
@@ -294,8 +294,8 @@
 {"source":"Kreatinin   100   μmol/L   59-104","target":"Creatinine 100 μmol/L 59-104"}
 {"source":"GFR   EPI   82   ml/min/1   L   90-120","target":"GFR EPI 82 ml/min/1 L 90-120"}
 {"source":"Bilirubin   (össz)   39.8   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 39.8 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   34   U/L   <50","target":"GOT (ASAT) 34 U/L <50"}
-{"source":"GPT   (ALAT)   148   U/L   H   <50","target":"GPT (ALAT) 148 U/L H <50"}
+{"source":"GOT   (ASAT)   34   U/L   <50","target":"ASAT 34 U/L <50"}
+{"source":"GPT   (ALAT)   148   U/L   H   <50","target":"ALAT 148 U/L H <50"}
 {"source":"GGT   527   U/L   H   <55","target":"GGT 527 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   229   U/l   H   30-120","target":"Alkaline phosphatase 229 U/l H 30-120"}
 {"source":"LDH   229   U/L   <248","target":"LDH 229 U/L <248"}
@@ -333,8 +333,8 @@
 {"source":"Kreatinin   119   μmol/L   H   59-104","target":"Creatinine 119 μmol/L H 59-104"}
 {"source":"GFR   EPI   66   ml/min/1   L   90-120","target":"GFR EPI 66 ml/min/1 L 90-120"}
 {"source":"Bilirubin   (össz)   34.8   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 34.8 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   38   U/L   <50","target":"GOT (ASAT) 38 U/L <50"}
-{"source":"GPT   (ALAT)   103   U/L   H   <50","target":"GPT (ALAT) 103 U/L H <50"}
+{"source":"GOT   (ASAT)   38   U/L   <50","target":"ASAT 38 U/L <50"}
+{"source":"GPT   (ALAT)   103   U/L   H   <50","target":"ALAT 103 U/L H <50"}
 {"source":"GGT   436   U/L   H   <55","target":"GGT 436 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   202   U/l   H   30-120","target":"Alkaline phosphatase 202 U/l H 30-120"}
 {"source":"LDH   210   U/L   <248","target":"LDH 210 U/L <248"}
@@ -373,8 +373,8 @@
 {"source":"Kreatinin   148   μmol/L   H   59-104","target":"Creatinine 148 μmol/L H 59-104"}
 {"source":"GFR   EPI   51   ml/min/1   L   90-120","target":"GFR EPI 51 ml/min/1 L 90-120"}
 {"source":"Bilirubin   (össz)   33.9   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 33.9 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   32   U/L   <50","target":"GOT (ASAT) 32 U/L <50"}
-{"source":"GPT   (ALAT)   86   U/L   H   <50","target":"GPT (ALAT) 86 U/L H <50"}
+{"source":"GOT   (ASAT)   32   U/L   <50","target":"ASAT 32 U/L <50"}
+{"source":"GPT   (ALAT)   86   U/L   H   <50","target":"ALAT 86 U/L H <50"}
 {"source":"GGT   363   U/L   H   <55","target":"GGT 363 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   168   U/l   H   30-120","target":"Alkaline phosphatase 168 U/l H 30-120"}
 {"source":"LDH   181   U/L   <248","target":"LDH 181 U/L <248"}
@@ -415,7 +415,7 @@
 {"source":"Kreatinin   137   μmol/L   H   59-104","target":"Creatinine 137 μmol/L H 59-104"}
 {"source":"GFR   EPI   56   ml/min/1   L   90-120","target":"GFR EPI 56 ml/min/1 L 90-120"}
 {"source":"Bilirubin   (össz)   38.4   μmol/l   H   5.0-21.0","target":"Bilirubin (total) 38.4 μmol/l H 5.0-21.0"}
-{"source":"GOT   (ASAT)   30   U/L   <50","target":"GOT (ASAT) 30 U/L <50"}
+{"source":"GOT   (ASAT)   30   U/L   <50","target":"ASAT 30 U/L <50"}
 {"source":"e-MedSolution   Oldal   9 Dr. Varga   Károly   -   Esetszám:   28715349   Nyomtatva: mer10 2022.04.20 09:50 GPT   (ALAT)   80   U/L   H   <50","target":"e-MedSolution Page 9 Dr. Varga Károly - Case number: 28715349 Printed: May 10 2022.04.20 09:50 GPT (ALAT) 80 U/L H <50"}
 {"source":"GGT   339   U/L   H   <55","target":"GGT 339 U/L H <55"}
 {"source":"Alkalikus   foszfatáz   158   U/l   H   30-120","target":"Alkaline phosphatase 158 U/l H 30-120"}
