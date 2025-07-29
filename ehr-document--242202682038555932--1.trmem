@@ -48,3 +48,12 @@
 {"source":"2022.04.09   14:23   88135   Transzfúzió   során végzett tevékenys Hamar Mátyás Dr.","target":"09. April, 2022 14:23 88135 Transfusion related activity Dr. Mátyás Hamar"}
 {"source":"Labor   eredmények","target":"Lab results"}
 {"source":"2022.04.09 Teljes   vérkép   IV.","target":"April 9, 2022 Full Blood Count IV."}
+{"source":"Fehérvérsejt   szám   3.59   G/L   L   4.00-10.00","target":"White Blood Cell Count: 3.59 G/L (Low) - Reference Range: 4.00-10.00 G/L"}
+{"source":"Neutrophil   granulocyta   %   81.3   %   H   45.0-70.0","target":"Neutrophil Granulocyte %: 81.3% (High). Ref. Range: 45.0-70.0%"}
+{"source":"Eosinophil   granulocyta   %   0.0   %   <5.0","target":"Eosinophil Granulocyte %: 0.0 % Ref. Range: <5.0"}
+{"source":"Basophil   granulocyta   %   0.0   %   <2.0","target":"Basophil Granulocyte %: 0.0 % Ref. Range: <2.0"}
+{"source":"Monocyta   %   9.5   %   2.0-10.0","target":"Monocyte %: 9.5 %  Ref. Range: 2.0-10.0"}
+{"source":"Lymphocyta   %   9.2   %   L   25.0-45.0","target":"Lymphocyte % 9.2 % Low Ref. Range: 25.0-45.0"}
+{"source":"Éretlen   granulocyta   %   0.6   %   <0.8","target":"Immature granulocyte %0.6 % Ref Range <0.8"}
+{"source":"Neutrophil   granulocyta   #   2.92   G/L   1.80-7.00","target":"Neutrophil granulocyte # 2.92 G/L Ref. range: 1.8-7"}
+{"source":"Eosinophil   granulocyta   #   0.00   G/L   <1.00","target":"Eosinophil granulocyte # 0.00 G/L Ref. Range < 1.00"}
